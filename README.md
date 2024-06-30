@@ -2,10 +2,10 @@
 
 Thank you for taking the time to read this ! 🙏
 
-💻 With 4 years of hands-on experience, my expertise is centered around `PHP` and `Laravel`, where I've honed my skills in building robust backend systems.
+💻<strong>+ 4 years</strong> building robust backend systems with `PHP` and `Laravel`.
 
-I'm also familiar with `Vue.js`, adding versatility to my skill set and enabling me to contribute to full-stack projects.
+In addition to my familiarity with `Vue.js`, I'm currently enhancing
+my skills by learning `Linux` and server configuration.<br>
 
-Additionally, I'm currently learning `Linux` and server configuration to enhance my skills. This knowledge will improve my ability to deploy and maintain applications in diverse environments.
-
-I'm excited to continue my journey in the realm of backend development, leveraging emerging technologies and best practices to create impactful solutions. 
+I plan to expand my expertise by learning `Golang`, aiming to
+explore new technologies and build innovative and efficient backend solutions.
